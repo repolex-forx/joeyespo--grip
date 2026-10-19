@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/joeyespo/grip/commit/a3f0ab5c8942ac15cf68f790b80c0a43b3a4c71e",
       "git:hexsha": "a3f0ab5c8942ac15cf68f790b80c0a43b3a4c71e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/joeyespo/grip/commit/9add301289db8731538ac9c9830b4d4969d2749d",
